@@ -1,4 +1,4 @@
-# Computer Programming - Java
+# Murder Case Simulation - Person Class
 
 This Java program simulates a murder case scenario involving a group of friends. The main components of the simulation are encapsulated in the Person class, which includes methods for 
 1) Creating persons
