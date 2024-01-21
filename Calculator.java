@@ -1,4 +1,3 @@
-package cpsc101.z230155884.LAB7;
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
