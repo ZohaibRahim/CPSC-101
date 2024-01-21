@@ -24,13 +24,13 @@ This Java Swing application implements a simple calculator with a graphical user
 
 **Usage:**
 
-  Run the Main class to start the calculator application.
-  The calculator window appears, featuring a display area and numeric buttons.
-  Users can input digits using the digit buttons, perform arithmetic operations, and negate the displayed value.
-  The clear button resets the display to zero, and the negate button toggles the sign of the displayed value.
+1) Run the Main class to start the calculator application.
+2) The calculator window appears, featuring a display area and numeric buttons.
+3) Users can input digits using the digit buttons, perform arithmetic operations, and negate the displayed value.
+4) The clear button resets the display to zero, and the negate button toggles the sign of the displayed value.
 
 **Note:**
 
-  The code uses the Swing framework to create a graphical user interface.
-  The calculator allows users to input positive and negative numbers with a maximum of nine display digits.
-  The code includes event listeners for button clicks to update the calculator's state and display.
+1) The code uses the Swing framework to create a graphical user interface.
+2) The calculator allows users to input positive and negative numbers with a maximum of nine display digits.
+3) The code includes event listeners for button clicks to update the calculator's state and display.
