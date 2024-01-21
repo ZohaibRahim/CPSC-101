@@ -1,4 +1,4 @@
-# Computer Programming - Java
+# Number-to-Word Converter
 
 This Java program, consisting of two classes (**NumberToStringConvertor** and **Testing**), implements a static method numberToString(int n) that converts an integer between 1 (inclusive) and one billion (exclusive) into its word representation. The numberToString method provides coverage for a broader range of integers, and it takes appropriate action if the argument is out of range.
 
