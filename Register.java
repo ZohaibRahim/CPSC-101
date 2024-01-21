@@ -1,4 +1,3 @@
-package cpsc101.z230155884.LAB7;
 public class Register {
     private boolean subtracted;
     private int displayDigitsMax;
