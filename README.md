@@ -1,33 +1,19 @@
-# Java Swing - House Drawing Component
+# Java Swing - Olympic Rings Drawing
 
-This Java program showcases a graphical representation of houses using the Swing framework. The application includes multiple classes that collaborate to create a customizable house-drawing component.
+This Java program uses the Swing framework to create a simple graphical representation of the Olympic rings. The application includes two classes: OlympicRings and Main.
 
-**House Class:**
+**OlympicRings Class:**
 
-1) Represents an individual house and contains shapes for the floor, roof, door, and window.
-2) Constructor takes the lower-left corner point and size as parameters to initialize the house.
-3) The draw method is responsible for rendering the house components using Graphics2D.
+1) Extends JPanel to create a custom drawing panel for the Olympic rings.
+2) Overrides the paintComponent method to draw five rings of different colors.
+3) Each ring is drawn using drawOval with specified positions and sizes.
 
-**HouseComponent Class:**
+**Main Class:**
 
-1) Extends JComponent to create a custom component for drawing multiple houses.
-2) Manages an ArrayList of House instances to allow for adding and rendering multiple houses.
-3) Overrides the paintComponent method to draw each house in the component.
+1) Contains the main method to initiate the program.
+2) Creates a JFrame with the title "Olympic Rings" and sets up the frame properties.
+3) Adds an instance of the OlympicRings class to the frame for rendering the rings.
+4) Displays the frame to visualize the Olympic rings.
 
-**HouseFrame Class:**
-
-1) Extends JFrame to create the main frame for displaying the houses.
-2) Constructor sets up the frame, adds the HouseComponent, and configures default settings.
-
-**TestHouses Class:**
-
-1) Serves as a test class to demonstrate the usage of the house-drawing component.
-2) Creates instances of House, adds them to the HouseComponent, and displays them in the HouseFrame.
-3) Includes a main method to initiate the application.
-
-**TestHouses - go Method:**
-
-1) Demonstrates how to create and display instances of House within the HouseComponent.
-2) Multiple houses with different positions and sizes are added to showcase the flexibility of the application.
-
-The program is a useful example for those learning about GUI programming with Java Swing. It demonstrates the composition of custom components, the rendering of shapes, and the creation of a graphical interface to display houses. Users can modify the positions, sizes, and colors of the houses to explore different visualizations.
+Usage:
+The program creates a window displaying the iconic Olympic rings in different colors. Users can run the application to view the graphical representation of the rings. It serves as a simple example for those learning about Java Swing graphics and provides a foundation for more complex graphical applications.
