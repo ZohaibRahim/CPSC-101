@@ -1,17 +1,17 @@
-# Computer Programming - Java
+# TimeClass - Java Time Management Library
 
-Topics:
-1) Counting a Character
-2) Number to String Converter
-3) Murder Case Simulation - Person Class
-4) TimeClass - Java Time Management Library
-5) Card Game Utility - Counting Fifteens
-6) Playing Card Utility - Enhanced Cribbage Deck
-7) Java Swing - Name in Rectangle
-8) Java Swing - Overlapping Squares
-9) Java Swing - Simple Face Drawing
-10) Java Swing - Home Drawing
-11) Java Swing - Home Drawing Component
-12) Java Swing - Olympic Rings Drawing
-13) Java Swing - Calculator
-14) Java Crossword Puzzle Generator
+TimeClass is a Java library that provides classes and interfaces for managing and manipulating time. The library includes different versions of time classes, each with its own set of features and improvements.
+
+TimeV1: The initial version includes a basic time representation with hour, minute, and second attributes. It provides methods for advancing time, comparing times, and checking equality.
+
+TimeV1a: An enhanced version of TimeV1 that implements the Comparable interface, allowing for easy comparison and sorting of time instances.
+
+TimeV1b: Introduces a TimeInterface within the TimeV1b package, demonstrating interface usage for accessing time attributes. It retains the functionality of TimeV1 with additional interface abstraction.
+
+TimeV2: A simplified version that represents time solely in seconds. It includes methods for advancing time, comparing times, and checking equality based on the total number of seconds.
+
+TimeV2a: An enhanced version of TimeV2 implementing the Comparable interface for easy comparison and sorting of time instances.
+
+TimeV2b: Introduces a TimeInterface within the TimeV2b package, showcasing interface usage for accessing time attributes. It retains the functionality of TimeV2 with additional interface abstraction.
+
+Each version of the TimeClass library is designed to cater to different use cases and provides flexibility in managing time in Java applications. The library can be used in various scenarios such as scheduling, time-based calculations, and more. Explore the different versions and choose the one that best suits your needs for time management in Java.
