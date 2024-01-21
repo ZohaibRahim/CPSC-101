@@ -1,4 +1,4 @@
-# CPSC101
+# Computer Programming - Java
 **Java Swing - Name in Rectangle**
 
 This Java program demonstrates a simple Swing application that displays the name "Zohaib Rahim" in the center of a black rectangle. The graphical user interface is created using the JFrame and JPanel classes.
