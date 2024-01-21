@@ -1,5 +1,3 @@
-package cpsc101.Z230155884.lab6_a;
-
 import java.awt.Color;
 import java.awt.Dimension;
 import java.awt.Font;
