@@ -13,23 +13,23 @@ TimeV1a:
 3) Supports advanced time manipulation and comparison with other instances.
 
 TimeV1b:
-Introduces a TimeInterface within the TimeV1b package for interface abstraction.
-Retains the functionality of TimeV1 with additional abstraction through interfaces.
-Provides a structured approach to accessing time attributes.
+1) Introduces a TimeInterface within the TimeV1b package for interface abstraction.
+2) Retains the functionality of TimeV1 with additional abstraction through interfaces.
+3) Provides a structured approach to accessing time attributes.
+
 TimeV2:
+1) Simplified version representing time solely in seconds.
+2) Offers methods for advancing time, comparing times, and checking equality based on seconds.
+3) Designed for scenarios where a simplified representation of time is sufficient.
 
-Simplified version representing time solely in seconds.
-Offers methods for advancing time, comparing times, and checking equality based on seconds.
-Designed for scenarios where a simplified representation of time is sufficient.
 TimeV2a:
+1) Enhanced version of TimeV2 implementing the Comparable interface.
+2) Represents time in seconds and provides methods for manipulation and comparison.
+3) Enables easy integration with other Comparable-enabled Java classes.
 
-Enhanced version of TimeV2 implementing the Comparable interface.
-Represents time in seconds and provides methods for manipulation and comparison.
-Enables easy integration with other Comparable-enabled Java classes.
 TimeV2b:
-
-Introduces a TimeInterface within the TimeV2b package for interface abstraction.
-Retains the functionality of TimeV2 with additional abstraction through interfaces.
-Offers a modular approach to accessing time attributes.
+1) Introduces a TimeInterface within the TimeV2b package for interface abstraction.
+2) Retains the functionality of TimeV2 with additional abstraction through interfaces.
+3) Offers a modular approach to accessing time attributes.
 
 Each version of the TimeClass library is designed to cater to different use cases and provides flexibility in managing time in Java applications. The library can be used in various scenarios such as scheduling, time-based calculations, and more. Explore the different versions and choose the one that best suits your needs for time management in Java.
