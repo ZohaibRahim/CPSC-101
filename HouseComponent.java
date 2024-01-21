@@ -1,5 +1,3 @@
-package cpsc101.Z230155884.lab6_e;
-
 import java.awt.Graphics ;
 import java.awt.Graphics2D ;
 
