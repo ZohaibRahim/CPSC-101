@@ -18,16 +18,6 @@ public class TestHouses
         myComponent.addHouse(h) ;
     }
 
-   /* private static void go()
-    {
-        HouseComponent t2 = t1.myComponent ;
-        Dimension houseSize = new Dimension(60,60) ;
-        TestHouses t1 = new TestHouses() ;
-        t1.addHouse(new House(/* ... *//*)) ;
-        t1.addHouse(/* ... *//*) ;
-        t1.addHouse(/* ... *//*) ;
-    }
-    */
    private static void go() {
        TestHouses t1 = new TestHouses();
        Dimension houseSize = new Dimension(60,60);
