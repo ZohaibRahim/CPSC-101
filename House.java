@@ -1,5 +1,3 @@
-package cpsc101.Z230155884.lab6_e;
-
 import java.awt.geom.Point2D ;
 import java.awt.geom.Rectangle2D ;
 import java.awt.Color ;
