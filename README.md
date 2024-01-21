@@ -1,5 +1,4 @@
-# Computer Programming - Java
-**Playing Card Utility - Enhanced Cribbage Deck**
+# Playing Card Utility - Enhanced Cribbage Deck
 
 This Java program defines utility classes for working with a standard deck of playing cards, focusing on the context of a cribbage deck. The main classes include Card, Rank, and Suit.
 
