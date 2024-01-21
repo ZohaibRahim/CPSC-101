@@ -3,7 +3,6 @@
 TimeClass is a comprehensive Java library designed to facilitate time management in Java applications. The library includes various versions of time classes, each catering to different use cases and offering different sets of features and improvements.
 
 TimeV1:
-
 1) Represents time with hour, minute, and second attributes.
 2) Provides methods for advancing time, comparing times, and checking equality.
 3) Implements accessor and mutator methods for flexible time manipulation.
