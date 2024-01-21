@@ -1,12 +1,7 @@
-package cpsc101.Z230155884.lab6_e;
-
 import javax.swing.JFrame ;
-
 
 public class HouseFrame extends JFrame
 {
-
-
     public HouseFrame(HouseComponent houses)
     {
         super("House Frame") ;
