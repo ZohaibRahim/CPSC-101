@@ -1,5 +1,3 @@
-package cpsc101.Z230155884.lab6_f;
-
 import java.awt.Color;
 import java.awt.Graphics;
 
