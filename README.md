@@ -1,4 +1,4 @@
-# CPSC101
+# Computer Programming - Java
 **Card Game Utility - Counting Fifteens**
 
 This Java program provides utility classes for working with a standard deck of playing cards. The primary classes include Card, Rank, and Suit. The Card class represents a playing card with methods for obtaining the card's rank, suit, crib count, and string representation. The Rank and Suit enumerations define the possible ranks and suits of the cards.
