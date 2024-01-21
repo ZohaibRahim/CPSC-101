@@ -1,5 +1,3 @@
-package cpsc101.Z230155884.lab6_c;
-
 import javax.swing.*;
 
 public class Main {
