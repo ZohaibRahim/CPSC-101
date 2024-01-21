@@ -16,4 +16,5 @@ This Java program uses the Swing framework to create a simple graphical represen
 4) Displays the frame to visualize the Olympic rings.
 
 Usage:
+
 The program creates a window displaying the iconic Olympic rings in different colors. Users can run the application to view the graphical representation of the rings. It serves as a simple example for those learning about Java Swing graphics and provides a foundation for more complex graphical applications.
